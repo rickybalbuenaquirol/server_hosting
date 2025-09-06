@@ -1,22 +1,22 @@
 [
   {
     "app_name": "Dead Trigger",
-    "app_icon": "https://example.com/icon.png",
+    "app_icon": "https://github.com/rickybalbuenaquirol/APP_ICON_IMAGES/blob/main/Dead%20Trigger.png",
     "app_version": "1.0"
   },
   {
     "app_name": "Mad Zombies",
-    "app_icon": "https://example.com/icon2.png",
+    "app_icon": "https://github.com/rickybalbuenaquirol/APP_ICON_IMAGES/blob/main/Mad%20Zombies.png",
     "app_version": "2.0"
   },
   {
     "app_name": "Bow Master",
-    "app_icon": "https://example.com/icon2.png",
+    "app_icon": "https://github.com/rickybalbuenaquirol/APP_ICON_IMAGES/blob/main/Bow%20Master.png",
     "app_version": "3.0"
   },
   {
     "app_name": "Zombie Hunter",
-    "app_icon": "https://example.com/icon2.png",
+    "app_icon": "https://github.com/rickybalbuenaquirol/APP_ICON_IMAGES/blob/main/Zombie%20Hunter.png",
     "app_version": "4.0"
   }
 ]
