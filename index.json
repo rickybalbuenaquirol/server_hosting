@@ -1,0 +1,12 @@
+[
+  {
+    "app_name": "Dead Trigger",
+    "app_icon": "https://example.com/icon.png",
+    "app_version": "1.0"
+  },
+  {
+    "app_name": "Mad Zombies",
+    "app_icon": "https://example.com/icon2.png",
+    "app_version": "2.0"
+  }
+]
