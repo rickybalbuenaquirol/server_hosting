@@ -8,5 +8,15 @@
     "app_name": "Mad Zombies",
     "app_icon": "https://example.com/icon2.png",
     "app_version": "2.0"
+  },
+  {
+    "app_name": "Bow Master",
+    "app_icon": "https://example.com/icon2.png",
+    "app_version": "3.0"
+  },
+  {
+    "app_name": "Zombie Hunter",
+    "app_icon": "https://example.com/icon2.png",
+    "app_version": "4.0"
   }
 ]
